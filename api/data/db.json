@@ -1,0 +1,36 @@
+{
+  "gallery": [
+    {
+      "imgSrc": "https://picsum.photos/id/455/400/300",
+      "id": 2
+    },
+    {
+      "imgSrc": "https://picsum.photos/id/666/400/300",
+      "id": 3
+    },
+    {
+      "imgSrc": "https://picsum.photos/id/565/400/300",
+      "id": 4
+    },
+    {
+      "imgSrc": "https://picsum.photos/id/120/400/300",
+      "id": 5
+    },
+    {
+      "imgSrc": "https://picsum.photos/id/123/400/300",
+      "id": 6
+    },
+    {
+      "imgSrc": "https://picsum.photos/id/456/400/300",
+      "id": 8
+    },
+    {
+      "imgSrc": "https://picsum.photos/id/321/400/300",
+      "id": 9
+    },
+    {
+      "imgSrc": "https://picsum.photos/id/555/400/300",
+      "id": 10
+    }
+  ]
+}
